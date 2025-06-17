@@ -28,13 +28,12 @@ Ce script Python permet de fusionner deux feuilles d’un fichier Excel contenan
   ```
 - Le fichier fusionné sera généré dans le même dossier.
 
-
 ## Prérequis
 
 - Python 3
 - pandas
 
-Installe pandas si besoin :
+# Installe pandas si besoin :
 ```
 pip install pandas
 ```
