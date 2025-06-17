@@ -1,0 +1,13 @@
+# Dossiers à ignorer
+venv/
+__pycache__/
+data/
+output/
+
+# Fichiers Excel
+*.xlsx
+*.xls
+
+
+# VS Code
+.vscode/
